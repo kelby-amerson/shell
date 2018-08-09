@@ -1,0 +1,27 @@
+Francis Mazzolini
+811889773
+
+Kelby Amerson
+811518784
+
+We did a great job pair programming. 
+
+We both completed our commitments well and a few days before the project due date.
+
+To compile:
+
+Type: $ make
+
+        This will generate executables for all .cpp files in our project.
+        You can also compile individual programs.
+
+To run:
+
+Type: $./main
+
+	This opens up the shell. Every command you type in the shell can take up to 9 arguments.
+
+To clean:
+
+Type: $ make clean
+

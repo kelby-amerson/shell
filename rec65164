@@ -1,0 +1,12 @@
+Mazzolini-Amerson-final:
+total 192
+-rwxr-xr-x 1 ugrad 69516 May  1 19:39 main
+-rw-r--r-- 1 ugrad  4398 May  1 19:08 main.cpp
+-rw-r--r-- 1 ugrad 88832 May  1 19:26 main.o
+-rw-r--r-- 1 ugrad   247 May  1 18:55 makefile
+-rw-r--r-- 1 ugrad   359 May  1 19:10 project.cpp
+-rw-r--r-- 1 ugrad   105 May  1 19:10 project.h
+-rw-r--r-- 1 ugrad  8200 May  1 19:26 project.o
+-rw-r--r-- 1 ugrad   475 May  1 19:36 README
+-rw-r--r-- 1 ugrad     0 May  1 19:58 rec65164
+/home/ugrads/amerson/Mazzolini-Amerson-final:/home/work/cs1730a
